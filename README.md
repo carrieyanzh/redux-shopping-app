@@ -1,11 +1,12 @@
 # React + Vite
 
-
-![Alt text description](./images/login.png)
+<img src="/public/images/login.png" alt="Login" />
 
 username: carrie; password: 123
 
+## Project Structure
 
+```text
 reactjs_challenge/
 ├── public/
 │   └── images/
@@ -25,7 +26,7 @@ reactjs_challenge/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
-
+```
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
 Currently, two official plugins are available:
